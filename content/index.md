@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Sakura Web
+subtitle: My thought and ideas are in here
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hiiiii
