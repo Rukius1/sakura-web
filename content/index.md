@@ -1,5 +1,5 @@
 ---
 title: Welcome to Sakura Web
-draft: true
+draft: false
 ---
 Hiiiii
