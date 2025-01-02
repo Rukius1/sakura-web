@@ -1,7 +1,7 @@
 ---
 title: Welcome to Sakura Web
 draft: false
+comments: "true"
 ---
-# Hola a todos 
-Hiiiii
-como estamos todo bien todo correcto
+# Hello to every one of you
+This my obsidian vault, in here there are my personal thoughts and experiencies (mostly in spanish), and my i
